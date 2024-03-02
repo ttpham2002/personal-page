@@ -21,7 +21,7 @@ repository               : "/personal-page"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpeg"
+  avatar           : "photo.png"
   name             : "Trang Pham"
   pronouns         :  "she/her"  
   bio              : "Biology Student at UW-Madison with a strong interest in healthcare"
