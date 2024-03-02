@@ -12,7 +12,7 @@ title                    : "Bao (William) Nguyen's Page "
 title_separator          : "-"
 name                     : &name "Bao Nguyen"
 description              : &description "personal description"
-url                      :  https://wnguyen1312.github.io/personal-page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://ttpham2002.github.io/personal-page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/personal-page"
 
