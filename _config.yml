@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Trang Pham's Page "
+title                    : "Bao (William) Nguyen's Page "
 title_separator          : "-"
-name                     : &name "Trang Pham"
+name                     : &name "Bao Nguyen"
 description              : &description "personal description"
-url                      :  https://ttpham2002.github.io/personal-page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://wnguyen1312.github.io/personal-page # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/personal-page"
 
@@ -22,23 +22,24 @@ repository               : "/personal-page"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Trang Pham"
-  pronouns         :  "she/her"  
-  bio              : "Biology Student at UW-Madison with a strong interest in healthcare"
-  location         : "Wisconsin, Madison, USA"
-  employer         : "University of Wisconsin Madison"
+  name             : "Bao Nguyen"
+  pronouns         :  "he/him"  
+  bio              : "Imperial-MIT Physics Exchange Student with a strong interest in accelerator and fusion science"
+  location         : "Cambridge, MA, USA"
+  employer         : "Imperial College London"
   uri              : # URL
-  email            : "ttpham6@wisc.edu" 
+  email            : "wgn21@ic.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  orcid            : "https://orcid.org/0009-0006-6655-6126"
+  googlescholar    : "https://scholar.google.com/citations?user=113hVE8AAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0002-1753-4223"
 
 
 
 
   # Social media
-  linkedin         : # trangthpham
+  linkedin         : # william-bao-nguyen
 
 
 # Site Settings
