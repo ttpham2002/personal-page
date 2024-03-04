@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👩‍🎓 I am a third molecular biology at the University of Wiscosin Madison <br>
+👩‍🎓 I am a junior majoring in Molecular & Cell Biology at the University of Wisconsin-Madison. <br>
 
 👩‍🔬 I am passionate about healthcare and my research interests lie in wound healing and drug development. <br>
 
