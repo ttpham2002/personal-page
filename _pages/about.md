@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Trang!"
+title: "👋 Hi, I'm Trang!"
 author_profile: true
 redirect_from: 
   - /about/
