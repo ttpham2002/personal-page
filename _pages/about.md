@@ -18,7 +18,7 @@ redirect_from:
 
 - I am currently working under the guidance of Professor [William Bement](https://bement.cellimaging.wisc.edu/) to investigate the pathways of wound healing in single cells via *Xenopus Laevis*.
   
-- While in Vietam, I have worked under Professor Nguyen Thi Hai Yen to explore the cost implications of therapeutic drugs, focusing on pre- and post-implementation analysis. 
+- While in Vietnam, I have worked under Professor Nguyen Thi Hai Yen to explore the cost implications of therapeutic drugs, focusing on pre- and post-implementation analysis. 
 
 # Volunteering 
 - I am working as a volunteer at the [UW Health University Hospital](https://www.uwhealth.org/locations/university-hospital-170) in the Medical & Surgery Short Stay unit. I provide escort services, and maintain adequate supply levels by restocking essential items.
